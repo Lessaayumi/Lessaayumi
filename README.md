@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Alessandra!</h1>
 
 <p align="center">
-  DevSecOps • DevOps • Information Security Analyst  <br>
+  Information Security Analyst  <br>
   Purpleteam • Coder <br>
 </p>
 
