@@ -1,19 +1,19 @@
-<h1 align="center">👋 Olá, eu sou a Alessandra!</h1>
+<h1 align="center">👋 Hey there, I'm Alessandra!</h1>
 
 <p align="center">
-  DevSecOps • DevOps • Analista de Segurança da Informação  <br><br>
+  DevSecOps • DevOps • Information Security Analyst  <br>
+  Purpleteam • Coder <br>
 </p>
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 About Me
 
-- 🌱 Dev por amor à tecnologia e à criação de soluções criativas  
-- 🔐 Analista de Segurança da Informação em formação e atuação  
-- 🌐 Atualmente Analista de Redes no **Alicerce Educação**  
-- 💼 Estagiária na **Compass UOL**  
-- 🎓 Estudante de Segurança da Informação na **FATEC Ourinhos**  
-- 🤖 Participante ativa em projetos de CTF, pesquisa em IA para Segurança e comunidade tech  
+• 🔐 Information Security Analyst (in training and active in the field)
+• 🌐 Currently working as a Network Analyst at Alicerce
+• 💼 Intern at Compass UOL
+• 🎓 Information Security student at FATEC Ourinhos
+•🤖 Active participant in CTF projects, AI research for cybersecurity, and the tech community.
 
 ---
 
@@ -31,6 +31,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-4B0082?style=for-the-badge&logo=money&logoColor=white)
+
 
 
 ---
@@ -38,19 +41,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO**&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lessaayumi&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO**&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
-> 🔁 Substitua `**SEU_USUARIO**` pelo seu nome de usuário do GitHub para os gráficos funcionarem!
+
 
 ---
 
-### 📌 Projetos em Destaque
+📌 Featured Projects
 
-- 🛡️ **Segurança com ML** – TCC sobre detecção de botnets e ataques DDoS com undersampling em IoT  
-- ☁️ **Infra AWS WordPress** – Projeto com EC2, RDS, Load Balancer e Auto Scaling  
-- 🔐 **CTFs e Labs** – Repositório com desafios e soluções comentadas de CTFs  
+• Researcher at Detect.AI Lab (link: detectai.fatecourinhos.edu.br), focusing on DDoS Attack Detection in IoT Botnets: Using undersampling for data balancing in Machine Learning models.
+• Development of a soil moisture sensor – Master's research partnership with Unimar.
+• Research on the impact of women in cybersecurity.
 
 ---
 
