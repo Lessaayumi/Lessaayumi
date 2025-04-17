@@ -37,7 +37,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-4B0082?style=for-the-badge&logo=money&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20Computadores-4169E1?style=for-the-badge&logo=internet-explorer&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-00A1F1?style=for-the-badge&logo=cloudflare&logoColor=white)
