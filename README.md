@@ -28,6 +28,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -37,6 +38,10 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps-4B0082?style=for-the-badge&logo=money&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20Computadores-4169E1?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-00A1F1?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-FF4500?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 
 
