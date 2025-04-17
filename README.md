@@ -10,9 +10,13 @@
 ### 👩‍💻 About Me
 
 • 🔐 Information Security Analyst (in training and active in the field)
+
 • 🌐 Currently working as a Network Analyst at Alicerce
+
 • 💼 Intern at Compass UOL
+
 • 🎓 Information Security student at FATEC Ourinhos
+
 •🤖 Active participant in CTF projects, AI research for cybersecurity, and the tech community.
 
 ---
@@ -42,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lessaayumi&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO**&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessaayumi&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 
