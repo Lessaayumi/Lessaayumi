@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou a Alessandra!</h1>
 
 <p align="center">
-  💻 Dev por hobby • 🚀 Fã de DevOps • 🛡️ Analista de Segurança da Informação <br>
-  🧠 Apaixonada por aprendizado constante, automação e desafios técnicos <br>
+  DevSecOps • DevOps • Analista de Segurança da Informação  <br>
+   <br>
 </p>
 
 ---
@@ -15,7 +15,6 @@
 - 💼 Estagiária na **Compass UOL**
 - 🎓 Estudante de Segurança da Informação na **FATEC Ourinhos**
 - 🤖 Participante ativa em projetos de CTF, pesquisa em IA para Segurança e comunidade tech
-- 🌿 Fã do Bulbasaur desde o Game Boy Color
 
 ---
 
