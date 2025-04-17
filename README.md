@@ -17,7 +17,7 @@
 
 • 🎓 Information Security student at FATEC Ourinhos
 
-•🤖 Active participant in CTF projects, AI research for cybersecurity, and the tech community.
+• 🤖 Active participant in CTF projects, AI research for cybersecurity, and the tech community.
 
 ---
 
@@ -55,35 +55,16 @@
 
 📌 Featured Projects
 
-• Researcher at Detect.AI Lab (link: detectai.fatecourinhos.edu.br), focusing on DDoS Attack Detection in IoT Botnets: Using undersampling for data balancing in Machine Learning models.
+• Researcher at Detect.AI Lab, focusing on DDoS Attack Detection in IoT Botnets: Using undersampling for data balancing in Machine Learning models.
+
 • Development of a soil moisture sensor – Master's research partnership with Unimar.
+
 • Research on the impact of women in cybersecurity.
 
 ---
 
-### 🧠 Awesome Hacking Resources
-
-- 📚 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
-- 🛠️ [CTF Practice Challenges](https://github.com/apsdehal/awesome-ctf)  
-- 🧩 [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)  
-- 📊 [Cybersecurity Research Papers](https://github.com/pwwang/research-cybersecurity)  
-- 🧠 [Machine Learning for Security](https://github.com/virajmavani/awesome-machine-learning-security)  
+-  [LinkedIn](www.linkedin.com/in/alessandra-lopes-6b5697251)    
+-  [Detect.AI](detectai.fatecourinhos.edu.br/)
+-  [Lattes](lattes.cnpq.br/1980222652072967)
 
 ---
-
-### 🌐 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/**SEU_USUARIO**)  
-- 🔒 [Instagram - HackHerClub](https://www.instagram.com/hackherclub)  
-- 🌎 [Blog pessoal / portfólio](https://seusite.com) *(em breve!)*
-
----
-
-### 🚀 GitHub Readme Status
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=**SEU_USUARIO**&theme=tokyonight)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=**SEU_USUARIO**&theme=tokyonight&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-✨ Obrigada por visitar meu perfil! Sinta-se à vontade para conectar, colaborar ou só dar um alô! 💜
