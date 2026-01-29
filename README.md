@@ -8,16 +8,15 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante e profissional em **Segurança da Informação**, atuando com redes, cloud e pesquisa aplicada à cibersegurança. Participo ativamente de **CTFs**, projetos acadêmicos e pesquisas voltadas à **detecção de ataques em ambientes IoT** utilizando **Machine Learning**.
+Profissional em **Segurança da Informação**, atuando com redes, cloud e pesquisa aplicada à cibersegurança. Participo ativamente de **CTFs**, projetos acadêmicos e pesquisas voltadas à **detecção de ataques em ambientes IoT** utilizando **Machine Learning**.
 
-- 🔐 **Information Security Analyst** (em formação e atuação)
-- 🌐 **Network Analyst** na Alicerce
-- ☁️ Ex-estagiária **DevSecOps** na Compass UOL
-- 🎓 Estudante de **Segurança da Informação** na FATEC Ourinhos
+- 🔐 **Information Security Analyst** 
+- 🌐 **Network Analyst** 
+- ☁️ **DevSecOps** na Compass UOL
+- 🎓 Tecnóloga em **Segurança da Informação** na FATEC Ourinhos
 - 🤖 Pesquisadora em **IA aplicada à Cibersegurança**
 - 🏴‍☠️ Participante ativa de **CTFs** e projetos open source
 - 💬 Pergunte-me sobre **InfoSec, Redes, Cloud, CTFs e Machine Learning**
-- 📫 Contato: **LinkedIn ou Lattes**
 
 ---
 
@@ -63,18 +62,10 @@ Sou estudante e profissional em **Segurança da Informação**, atuando com rede
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lessaayumi&theme=tokyonight&no-bg=true&margin-w=10"/>
-</div>
-
----
-
 ## 🎯 Projetos em Destaque
 
-### 🔍 Detecção de Ataques DDoS em IoT
-Pesquisa focada na identificação de ataques DDoS em botnets IoT utilizando **Machine Learning** com técnicas de **undersampling** para balanceamento de dados.
+### 🔍 Detecção de Ataques DDoS orquestrados por botnets IoT
+Pesquisa focada na identificação de ataques DDoS orquestrados botnets IoT utilizando **Machine Learning** com técnicas de **undersampling** para balanceamento de dados.
 
 **Tecnologias:** `Python` `ML` `IoT` `Cybersecurity`
 
@@ -96,21 +87,12 @@ Pesquisa e produção de conteúdo sobre o impacto e a participação feminina n
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandra-lopes-6b5697251)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandradesouzalopes)
 [![Lattes](https://img.shields.io/badge/Lattes-0047AB?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://lattes.cnpq.br/1980222652072967)
 [![Detect.AI](https://img.shields.io/badge/Detect.AI-8E44AD?style=for-the-badge&logo=databricks&logoColor=white)](https://detectai.fatecourinhos.edu.br)
 
 </div>
 
----
-
-<div align="center">
-
-> *"Segurança não é produto, é processo."* – Bruce Schneier
-
-</div>
-
----
 
 <div align="center">
 
