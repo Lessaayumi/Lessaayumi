@@ -2,23 +2,8 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Information+Security+Analyst;Blue+%26+Purple+Team;CTF+Player+%26+Researcher;Apaixonada+por+Ciberseguran%C3%A7a!)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Information+Security+Analyst;Blue+%26+Purple+Team;CTF+Player+%26+Researcher;).
 </div>
-
-## 🚀 Sobre mim
-
-Profissional em **Segurança da Informação**, atuando com redes, cloud e pesquisa aplicada à cibersegurança. Participo ativamente de **CTFs**, projetos acadêmicos e pesquisas voltadas à **detecção de ataques em ambientes IoT** utilizando **Machine Learning**.
-
-- 🔐 **Information Security Analyst** 
-- 🌐 **Network Analyst** 
-- ☁️ **DevSecOps** na Compass UOL
-- 🎓 Tecnóloga em **Segurança da Informação** na FATEC Ourinhos
-- 🤖 Pesquisadora em **IA aplicada à Cibersegurança**
-- 🏴‍☠️ Participante ativa de **CTFs** e projetos open source
-- 💬 Pergunte-me sobre **InfoSec, Redes, Cloud, CTFs e Machine Learning**
-
----
 
 ## 🛠️ Tech Stack
 
