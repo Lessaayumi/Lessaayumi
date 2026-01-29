@@ -101,11 +101,3 @@ Pesquisa e produção de conteúdo sobre o impacto e a participação feminina n
 </div>
 
 ---
-
-<div align="center">
-
-### 🚀 Transformando dados em defesa, código em proteção
-
-</div>
-
----
