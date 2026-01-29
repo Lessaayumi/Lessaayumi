@@ -53,8 +53,10 @@ Profissional em **Segurança da Informação**, atuando com redes, cloud e pesqu
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lessaayumi&show_icons=true&theme=tokyonight&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessaayumi&layout=compact&theme=tokyonight"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lessaayumi&theme=tokyonight"/>
