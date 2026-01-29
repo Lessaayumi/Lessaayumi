@@ -58,10 +58,6 @@ Profissional em **Segurança da Informação**, atuando com redes, cloud e pesqu
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lessaayumi&theme=tokyonight"/>
-</div>
-
 ---
 
 ## 🎯 Projetos em Destaque
