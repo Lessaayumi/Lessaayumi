@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Information+Security+Analyst;Blue+%26+Purple+Team;CTF+Player+%26+Researcher;).
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Information+Security+Analyst;Blue+%26+Purple+Team;CTF+Player+%26+Researcher;)
 </div>
 
 ## 🛠️ Tech Stack
