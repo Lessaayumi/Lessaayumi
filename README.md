@@ -5,14 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Information+Security+Analyst;Blue+%26+Purple+Team;CTF+Player+%26+Researcher;)
 </div>
 
-adge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lessaayumi&layout=compact&theme=tokyonight"/>
-</div>
 
 ## 🌐 Conecte-se comigo
 
