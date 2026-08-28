@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Alessandra
+# 👋 Hi! I'm Alessandra
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 </div>
 
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with Me
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lessaayumi&color=blueviolet&style=flat-square)
 
-⭐ **Se curtiu algum projeto, deixa uma estrela!**
+⭐ **If you like any of my projects, feel free to leave a star!**
 
 </div>
 
